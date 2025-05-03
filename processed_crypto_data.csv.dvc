@@ -1,0 +1,5 @@
+outs:
+- md5: de40bd3608f68856227c44d31434e415
+  size: 2659
+  hash: md5
+  path: processed_crypto_data.csv
