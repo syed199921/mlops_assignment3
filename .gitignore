@@ -1,0 +1,16 @@
+/raw_crypto_data.csv
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+.ipynb_checkpoints/
+*.log
+*.tmp
+*.out
+*.err
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.cache/
