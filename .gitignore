@@ -14,3 +14,5 @@ Thumbs.db
 .vscode/
 .idea/
 .cache/
+/processed_crypto_data.csv
+/model.pkl
